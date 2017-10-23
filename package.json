@@ -1,0 +1,25 @@
+{
+  "name": "api_temp",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomL-dev/api_temp.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TomL-dev/api_temp/issues"
+  },
+  "homepage": "https://github.com/TomL-dev/api_temp#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
